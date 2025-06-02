@@ -1,1 +1,0 @@
-In this directory, all code used for analysis is included. The analysis code generates data used for plotting. The final output used for plotting is included in the "data" directory. Note that you need to import two functions in the "function" directory to execute the analysis code.
